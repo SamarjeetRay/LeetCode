@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/SamarjeetRay/LeetCode/tree/master/0054-spiral-matrix) |
 | [0704-binary-search](https://github.com/SamarjeetRay/LeetCode/tree/master/0704-binary-search) |
+| [0746-min-cost-climbing-stairs](https://github.com/SamarjeetRay/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/SamarjeetRay/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/SamarjeetRay/LeetCode/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/SamarjeetRay/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 ## Memoization
 |  |
 | ------- |

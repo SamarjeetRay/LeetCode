@@ -2,30 +2,21 @@ class Solution {
 public:
     bool isPalindrome(string s) {
 
-        int left = 0;
-        int right = s.length() - 1;
+        string clean = "";
 
-        while (left < right) {
+        // Remove unwanted characters
+        for (int i = 0; i < s.length(); i++) {
 
-            // Skip non-alphanumeric characters from left
-            while (left < right && !isalnum(s[left])) {
-                left++;
+            if (isalnum(s[i])) {
+                clean += tolower(s[i]);
             }
-
-            // Skip non-alphanumeric characters from right
-            while (left < right && !isalnum(s[right])) {
-                right--;
-            }
-
-            // Compare characters ignoring case
-            if (tolower(s[left]) != tolower(s[right])) {
-                return false;
-            }
-
-            left++;
-            right--;
         }
 
-        return true;
+        // Create reverse
+        string reversed = clean;
+        reverse(reversed.begin(), reversed.end());
+
+        // Compare
+        return clean == reversed;
     }
 };

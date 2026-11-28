@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/SamarjeetRay/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SamarjeetRay/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/SamarjeetRay/LeetCode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/SamarjeetRay/LeetCode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/SamarjeetRay/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/SamarjeetRay/LeetCode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/SamarjeetRay/LeetCode/tree/master/0118-pascals-triangle) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/SamarjeetRay/LeetCode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/SamarjeetRay/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SamarjeetRay/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/SamarjeetRay/LeetCode/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SamarjeetRay/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/SamarjeetRay/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 ## Simulation
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SamarjeetRay/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/SamarjeetRay/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0079-word-search](https://github.com/SamarjeetRay/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/SamarjeetRay/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/SamarjeetRay/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/SamarjeetRay/LeetCode/tree/master/0344-reverse-string) |
@@ -227,5 +230,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/SamarjeetRay/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/SamarjeetRay/LeetCode/tree/master/0090-subsets-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/SamarjeetRay/LeetCode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
